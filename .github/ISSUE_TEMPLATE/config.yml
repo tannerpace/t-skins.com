@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Visit t-skins.com
+    url: https://t-skins.com
+    about: Visit the main website
   - name: 💬 General Questions & Discussion
     url: https://github.com/tannerpace/t-skins.com/issues/new
     about: Ask questions or start a discussion
