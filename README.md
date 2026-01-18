@@ -2,8 +2,6 @@
 
 This repository is the **official issue tracker and feedback hub** for [T-Skins.com](https://t-skins.com), a free browser-based Tesla wrap designer.
 
-> **Note:** This repository is for issue tracking only.
-
 ## About T-Skins
 
 T-Skins is a Progressive Web App (PWA) that lets you design custom Tesla vehicle wraps directly in your browser. Features include:
