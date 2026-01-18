@@ -47,9 +47,6 @@ Need help or have a question?
 
 [💬 Ask a Question](https://github.com/tannerpace/t-skins.com/issues/new)
 
-## Contributing
-
-While the source code is not publicly available, contributions to documentation, issue triage, and feature discussions are welcome!
 
 ## Contact
 
