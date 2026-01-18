@@ -4,8 +4,8 @@ This repository is the **official issue tracker and feedback hub** for [T-Skins.
 
 ## About T-Skins
 
-T-Skins is a Progressive Web App (PWA) that lets you design custom Tesla vehicle wraps directly in your browser. Features include:
-
+T-Skins lets you design custom Tesla vehicle wraps directly in your browser. Features include:
+- 💰 Free
 - 🎨 Canvas-based drawing tools (brush, texture brush, eraser, fill, spray, text)
 - 🚗 Templates for all Tesla models (Model 3, Y, S, X, Cybertruck)
 - ✨ AI-powered texture generation
