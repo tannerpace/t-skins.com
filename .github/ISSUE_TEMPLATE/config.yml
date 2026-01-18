@@ -3,3 +3,12 @@ contact_links:
   - name: Visit t-skins.com
     url: https://t-skins.com
     about: Visit the main website
+  - name: 💬 General Questions & Discussion
+    url: https://github.com/tannerpace/t-skins.com/issues/new
+    about: Ask questions or start a discussion
+  - name: 🌐 Visit T-Skins Website
+    url: https://t-skins.com
+    about: Try the Tesla wrap designer app
+  - name: ☕ Support the Developer
+    url: https://buymeacoffee.com/tannerpacec
+    about: Buy me a coffee if you find T-Skins useful
